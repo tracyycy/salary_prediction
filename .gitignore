@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# misc
+notebook
+iframe_figures
+export
+mlruns
